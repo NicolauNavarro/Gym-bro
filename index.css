@@ -215,16 +215,6 @@
   background-color: var(--primary);
   position: absolute;
 }
-
-
-
-
-
-
-
-
-
-
 .content .big-graphic .holder .box .values .right-side .bottom-row{
   width: 100%;
   height: 20px;
@@ -244,34 +234,6 @@
   height: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .side{
   display: flex;
   flex-direction: column;
@@ -282,100 +244,3 @@
   background-color: var(--layer);
   gap: 30px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-.side .end-day{
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-}
-.side .end-day .timer{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.side .end-day .timer p{
-  color: var(--text-2);
-}
-.side .end-day .timer span{
-  font-size: 55px;
-  color: var(--text-2);
-  font-family: 'Poppins', sans-serif;
-}
-.side .users{
-  display: flex;
-  flex-direction: column;
-  width: 90%;
-  gap: 10px;
-}
-.side .users .button{
-  width: 100%;
-  border-radius: 16px;
-  background-color: var(--text-2);
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.side .users .total{
-  height: 150px;
-  justify-content: space-around;
-  padding: 20px 0px;
-}
-.side .users .total h1{
-  font-size: 140px;
-  color: var(--layer);
-  opacity: 60%;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 200;
-}
-.side .users .change-menu{
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  height: 150px;
-  width: 100%;
-}
-.side .users .change-menu .add{
-  width: 60%;
-}
-.side .users .change-menu .remove{
-  width: 30%;
-}
-*/
-
-
