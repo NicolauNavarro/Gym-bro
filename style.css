@@ -113,3 +113,14 @@ nav .configuration{
   bottom: 10px;
   padding-bottom: 5px;
 }
+
+.preview-mode{
+  position: absolute;
+  right: 0px;
+  bottom: 50px;
+  width: 400px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
