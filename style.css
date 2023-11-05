@@ -33,6 +33,7 @@ body {
   background: var(--background);
   color: var(--text);
   font-family: 'Nunito', sans-serif;
+  overflow: hidden;
 }
 p{
   font-size: 18px;
